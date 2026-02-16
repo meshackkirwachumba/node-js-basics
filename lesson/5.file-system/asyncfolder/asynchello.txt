@@ -1,0 +1,2 @@
+Hello from async folder!
+This is an appended line in async file.
